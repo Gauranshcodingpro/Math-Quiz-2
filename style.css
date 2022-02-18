@@ -1,0 +1,28 @@
+#number1
+{
+border-style: ridge;
+}
+
+#number2
+{
+border-style: ridge;
+}
+
+#body
+{
+    background-color: aqua;
+}
+
+#player_question
+{
+    font-style:oblique;
+    font-size:200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#player_answer
+{
+    font-style:oblique;
+    font-size:200px;
+    font-family: 'Times New Roman', Times, serif;
+}
